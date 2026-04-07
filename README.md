@@ -8,14 +8,14 @@ Welcome to the **AI Assistance for Resume Analysis and Interview Evaluation**, a
 
 
 ### 1. Resume and Job Description Analysis
-![Resume Analysis](Implementation ScreenShots/Screenshot 2026-02-01 215615.png)
-![Resume Analysis](Implementation ScreenShots/Screenshot 2026-02-01 215630.png)
+![Resume Analysis](Implementation%20ScreenShots/Screenshot%202026-02-01%20215615.png)
+![Resume Analysis](Implementation%20ScreenShots/Screenshot%202026-02-01%20215630.png)
 
 ### 2. Live Interview Interface
-![Live Interview](Implementation ScreenShots/Screenshot 2026-02-01 221040.png)
+![Live Interview](Implementation%20ScreenShots/Screenshot%202026-02-01%20221040.png)
 
 ### 3. Final Performance Report
-![Performance Report](Implementation ScreenShots/Screenshot 2026-02-01 221133.png)
+![Performance Report](Implementation%20ScreenShots/Screenshot%202026-02-01%20221133.png)
 
 ---
 
