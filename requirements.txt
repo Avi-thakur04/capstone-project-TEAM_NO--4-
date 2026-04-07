@@ -1,0 +1,14 @@
+Flask
+flask-cors
+spacy
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+pypdf
+sentence-transformers
+numpy
+requests
+ollama
+faster-whisper
+kokoro
+scipy
