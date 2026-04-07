@@ -2,7 +2,13 @@
 
 Welcome to the **AI Assistance for Resume Analysis and Interview Evaluation**, an interactive, AI-driven platform for conducting automated, realistic candidate interviews. The platform leverages Google's Gemini API to evaluate candidate resumes against job descriptions, conduct conversational turn-by-turn interviews, and generate comprehensive performance reports.
 
+<<<<<<< HEAD
+🎯 **[Live Demo](Your-Live-Link-Here)**
+
+=======
+
 🎯 **[Live Demo](https://ec2-43-204-233-252.ap-south-1.compute.amazonaws.com/)**
+>>>>>>> b50c30206136b257577cca3dce2849caee5fe0f8
 
 ---
 
@@ -97,4 +103,9 @@ No License.
 
 ## 🤝 Contributors
 
+<<<<<<< HEAD
 - **Avinash Kumar** - [https://github.com/Avi-thakur04]
+=======
+- **Avinash Kumar** - [https://github.com/Avi-thakur04]
+-**[Contributors Name/ID]** - [Link to Profile/ID]
+>>>>>>> b50c30206136b257577cca3dce2849caee5fe0f8

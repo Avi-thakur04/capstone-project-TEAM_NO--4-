@@ -38,7 +38,7 @@ CORS(app, resources={r"/*": {"origins": "*"}}) # Allow all origins for simplicit
 # --- Gemini API Configuration ---
 
 # GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_API_KEY = "AIzaSyA0em1C-2xmwKOWw5qyeB8FGFNWwWID9ts"
+GEMINI_API_KEY = ""
 if not GEMINI_API_KEY:
     print("Warning: GEMINI_API_KEY environment variable not set.")
 
